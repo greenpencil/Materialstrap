@@ -1,0 +1,58 @@
+@media only screen and (max-width : 2000px) {
+	html {
+		font-size:1em;
+	}
+}
+
+@media only screen and (max-width : 999px) {
+	html {
+		font-size:0.7em;
+	}
+	
+	#big-box h1{
+		font-size: 2.7rem;
+	}
+	
+	.show-menu {
+		display:block;
+	}
+    .nav-wrap {
+        width: 100%;
+    }
+    .brand {
+        padding-left: 5%;
+    }
+	#menu {
+		display: none;
+		width: 100%;
+	}
+	#menu li, #menu li a {
+		width: 100%;
+	}
+    #menu li {
+        background-color: #66bb6a;
+    }
+    #menu li a {
+        display: block;
+        text-align: center;
+    }
+	#page-container {
+		width: inherit;
+	}
+	
+	nav li a {
+		padding: 0;
+	}
+}
+
+@media only screen and (max-width : 480px) {
+	html {
+		
+	}
+}
+
+@media only screen and (max-width : 320px) {
+	html {
+		
+	}
+}

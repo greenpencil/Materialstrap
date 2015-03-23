@@ -1,0 +1,91 @@
+/* This CSS file allows you to change the colour of Materialstrap 
+	To use this document simply find and replace the following colours:
+	
+	Material Design: Green
+	#e8f5e9 - Lighter 5 (50)
+	#c8e6c9 - Lighter 4 (100)
+	#a5d6a7 - Lighter 3 (200)
+	#81c784 - Lighter 2 (300)
+	#66bb6a - Lighter 1 (400)
+	
+	#4caf50 - Main Colour Scheme(500)
+	
+	#43a047 - Darker 1(600)
+	#388e3c - Darker 2(700)
+	#2e7d32 - Darker 3(800)
+	#1b5e20 - Darker 4(900)
+*/
+a {
+	color: #43A047;
+}
+
+a:hover {
+	color: #2e7d32;
+	border-bottom: 1px dotted #2e7d32;
+}
+
+nav,.button{
+	background-color: #4CAF50;
+}
+
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #A5D6A7;
+}
+
+.dynamic-box {
+	background-color: #66BB6A;
+}
+
+
+.button:hover,nav li a:hover {
+	background-color:#43A047;
+	border-bottom:none;
+	color:#fff;
+}
+
+input[type=text]:focus,textarea:focus {
+	border-bottom: 1px solid #43A047;
+	-webkit-box-shadow: 0 1px 0 0 #43A047;
+	-moz-box-shadow: 0 1px 0 0 #43A047;
+	box-shadow: 0 1px 0 0 #43A047;
+}
+
+input[type=range]::-ms-thumb {
+    background: #43A047;
+}
+
+input[type=range]::-moz-range-thumb {
+    background: #43A047;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    background-color: #43A047;
+}
+
+
+input[type=range]::-ms-fill-lower {
+    background: #66BB6A;
+}
+
+input[type=range]:focus::-ms-fill-lower {
+    background: #66BB6A;
+}
+
+
+
+.tag {
+	background-color: #8bb680;
+}
+.tag.red {
+	background-color: #B68080;
+}
+.tag.blue {
+	background-color: #8085B6;
+}
+.tag.purple {
+	background-color: #A080B6;
+}
+.tag.orange {
+	background-color: #B69280;
+}

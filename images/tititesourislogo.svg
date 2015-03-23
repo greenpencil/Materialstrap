@@ -1,0 +1,16 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <polygon stroke="#000000" transform="rotate(-88.90058135986328 318.29241943359375,246.13369750976565) " stroke-width="0" points="489.68426513671875,246.1337127685547 146.90052795410156,349.231689453125 146.90052795410156,143.0357208251953 489.68426513671875,246.1337127685547 " strokeWidth="0" strokecolor="#000000" fill="#E0E0E0" edge="240.18974" orient="x" sides="3" shape="regularPoly" id="svg_4" cy="105" cx="199"/>
+  <polygon stroke-width="0" stroke="#000000" points="197.38490295410156,159 196.80755615234375,159.33333587646484 196.80755615234375,158.66666412353516 197.38490295410156,159 " strokeWidth="0" strokecolor="#000000" fill="#FF0000" edge="0.666667" orient="x" sides="3" shape="regularPoly" id="svg_6" cy="111" cx="177"/>
+  <ellipse stroke="#000000" ry="63.999998" rx="105.499999" id="svg_7" cy="404.000002" cx="315.499989" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#E0E0E0"/>
+  <ellipse stroke="#000000" ry="100.999998" rx="100.499997" id="svg_8" cy="136.999998" cx="320.499997" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#E0E0E0"/>
+  <ellipse stroke="#000000" id="svg_11" ry="61.499999" rx="61.000001" cy="83.000001" cx="227.000001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#E0E0E0"/>
+  <ellipse id="svg_12" stroke="#000000" ry="61.499999" rx="61.000001" cy="83.500001" cx="411.500001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#E0E0E0"/>
+  <ellipse transform="rotate(-10 253.99999999999966,440.9999999999999) " ry="30" rx="117" id="svg_14" cy="441" cx="254" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#E0E0E0"/>
+  <ellipse id="svg_15" transform="rotate(10 371.5000000000007,441.4999999999998) " ry="30" rx="117" cy="441.5" cx="371.500008" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#E0E0E0"/>
+  <ellipse stroke="#000000" id="svg_16" transform="rotate(49.325069427490234 406.00000000000006,294.5) " ry="24.146692" rx="96.950341" cy="294.499999" cx="406.000005" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#E0E0E0"/>
+  <ellipse id="svg_18" stroke="#000000" transform="rotate(137.60252380371094 218.499984741211,291.49999999999994) " ry="24.146692" rx="96.950341" cy="291.500015" cx="218.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#E0E0E0"/>
+  <ellipse stroke="#000000" ry="8" rx="17" id="svg_19" cy="174" cx="322" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#cccccc"/>
+ </g>
+</svg>
